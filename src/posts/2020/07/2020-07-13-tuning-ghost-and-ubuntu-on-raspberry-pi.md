@@ -4,8 +4,11 @@ slug: tuning-ghost-and-ubuntu-on-raspberry-pi
 date: 2020-07-13T16:16:48.000Z
 date_updated: 2020-07-13T16:28:39.000Z
 tags: code
-excerpt: SD cards aren't ideal media for hosting a website. However with a few tunes you can extend the life of the SD card and provide a highly performant website to guests.
+
 ---
+
+SD cards aren't ideal media for hosting a website. However with a few tunes you can extend the life of the SD card and provide a highly performant website to guests.
+<!-- excerpt -->
 
 SD cards don't love alot of writes, so to reduce it some I turned off ghosts very promiscuous logging of all traffic to just report on errors only. 
 

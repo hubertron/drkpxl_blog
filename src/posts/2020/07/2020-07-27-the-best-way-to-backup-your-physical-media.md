@@ -4,8 +4,11 @@ slug: the-best-way-to-backup-your-physical-media
 date: 2020-07-28T02:18:33.000Z
 date_updated: 2020-09-18T15:12:11.000Z
 tags: code, how-to
-excerpt: The best way to backup your personal collection of BluRay's and DVDs to reclaim some shelf space using MakeMKV and Other Transcode.
+
 ---
+
+The best way to backup your personal collection of BluRay's and DVDs to reclaim some shelf space using MakeMKV and Other Transcode.
+<!-- excerpt -->
 
 If you have a number of old BluRay's and DVD's that you can legally back-up I found what I believe to be the best way to back them up to a hard drive and preserve a very good quality viewing experience at the same time so you can move your old disks to the Attic for safe keeping. 
 

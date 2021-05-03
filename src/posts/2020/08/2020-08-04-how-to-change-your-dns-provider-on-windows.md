@@ -4,8 +4,11 @@ slug: how-to-change-your-dns-provider-on-windows
 date: 2020-08-05T02:37:12.000Z
 date_updated: 2020-08-05T02:42:00.000Z
 tags: code, windows
-excerpt: How best to change your DNS provider on Windows 10 to use a service like Pi-Hole, Cloudflare or Google DNS.
+
 ---
+
+How best to change your DNS provider on Windows 10 to use a service like Pi-Hole, Cloudflare or Google DNS.
+<!-- excerpt -->
 
 I've been mainly a OSX guy since I think Windows 95. Maybe I made to Windows 98 so my memory of how to do stuff on Windows is a bit rusty. 
 

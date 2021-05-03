@@ -3,8 +3,10 @@ title: COVID Musing
 slug: covid-musing
 date: 2020-06-10T19:19:00.000Z
 tags: covid-19
-excerpt: Discussion about the unlikelihood of spread of Covid-19 in the outdoors of Colorado. 
+
 ---
+Discussion about the unlikelihood of spread of Covid-19 in the outdoors of Colorado. 
+<!-- excerpt -->
 
 We are now about 3 months through the start of quarantines and based on a number of sources I have a few different thoughts.
 

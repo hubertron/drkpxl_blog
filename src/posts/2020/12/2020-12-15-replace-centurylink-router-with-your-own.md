@@ -4,8 +4,10 @@ slug: replace-centurylink-router-with-your-own
 date: 2020-12-15T21:13:53.000Z
 date_updated: 2021-04-17T03:14:05.000Z
 tags: networking, how-to
-excerpt: How I dumped my CenturyLink fiber router and replaced with my own for better performance, range and configuability. 
+
 ---
+How I dumped my CenturyLink fiber router and replaced with my own for better performance, range and configuability. 
+<!-- excerpt -->
 
 Earlier in the year I switching from being a long time Comcast account holder to CenturyLink. They brought fiber to the home (FTTH) and offered up near-symmetrical gig internet for just $65 month including taxes and fees! Compared to the $100+ I paid Comcast for 50 Mbps it was a no brainer. The experience has been good so far but I have been held back by their included [3000A modem](https://www.centurylink.com/home/help/internet/modems-and-routers/actiontec-c3000a.html). There was nothing majorly wrong with it it just didn't have the best range, nor enough ethernet ports for me plus I already had a [Nighthawk X8 R8500](https://www.netgear.com/support/product/R8500.aspx) sitting unused so I decided to figure how to remove the 3000A. It turned out to be a pain in the ass so I thought I woud share it with you so save you some pain. 
 

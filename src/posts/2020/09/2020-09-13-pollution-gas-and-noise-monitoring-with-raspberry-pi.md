@@ -4,6 +4,8 @@ slug: pollution-gas-and-noise-monitoring-with-raspberry-pi
 date: 2020-09-13T22:38:31.000Z
 date_updated: 2020-10-06T22:53:15.000Z
 ---
+How to monitor air pollution easily with a raspberry pi.
+<!-- excerpt -->
 
 With all the wildfires happening around the US this summer (2020) I finally got motivated enough to put together an air quality monitor home base station to see air quality in person, on the web and on my phone.  If you has a Raspberry Pi plus a few other items you can set this up in an afternoon. I have it tuned to measure PM1.0, PM2.5, PM10, and Carbon Monoxide inside my house. 
 

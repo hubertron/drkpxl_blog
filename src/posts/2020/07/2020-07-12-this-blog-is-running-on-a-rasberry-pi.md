@@ -6,6 +6,10 @@ date_updated: 2020-07-13T16:18:25.000Z
 tags: code
 ---
 
+How I got this website to be hosted on a Raspberry Pi, I have since moved to Netlify though.
+<!-- excerpt -->
+
+
 First things first. Click around this site a bit. Pretty speedy right? You wouldn't think that possible on a Raspberry Pi on a home internet connection. Well with the proper caching anything is possible! Additionally, I didn't have to poke any holes through my firewall. Only one service can get to my Pi, and that's Cloudflare. This makes it performant and secure.
 
 ## First things first

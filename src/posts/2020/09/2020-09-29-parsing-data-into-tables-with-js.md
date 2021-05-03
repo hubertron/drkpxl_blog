@@ -4,8 +4,10 @@ slug: parsing-data-into-tables-with-js
 date: 2020-09-29T17:59:34.000Z
 date_updated: 2020-09-29T17:59:34.000Z
 tags: code
-excerpt: How to parse JSON data into a table with vanilla JS.
 ---
+
+How to parse JSON data into a table with vanilla JS.
+<!-- excerpt -->
 
 We have a very complex CMS at my work,  sometimes we want to do a small test without a huge .net feature rollout. For those times we like to write some vanilla JS to prove out the concept. What you can see at the Codepen below is is using requests to load a JSON and then using various nodes to build out the table. 
 

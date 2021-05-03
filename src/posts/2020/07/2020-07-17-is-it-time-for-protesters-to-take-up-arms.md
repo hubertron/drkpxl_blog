@@ -5,8 +5,11 @@ date: 2020-07-17T15:51:08.000Z
 date_updated: 2020-07-24T22:29:04.000Z
 tags: protests, trump, america
 draft: true
-excerpt: When is it time for protesters to defend themselves from kidnapping with guns and other legal weapons?
+
 ---
+
+When is it time for protesters to defend themselves from kidnapping with guns and other legal weapons?
+<!-- excerpt -->
 
 The 2nd amendment reads as follows:
 

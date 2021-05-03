@@ -4,8 +4,12 @@ slug: remotely-monitoring-raspberry-pi-system-vitals
 date: 2020-07-13T17:25:45.000Z
 date_updated: 2020-10-06T20:19:20.000Z
 tags: code
-excerpt: Setup and run Glances to monitor your Raspberry Pi's vitals from any web browser.
+
 ---
+
+Setup and run Glances to monitor your Raspberry Pi's vitals from any web browser.
+<!-- excerpt -->
+
 
 A little 4 core Raspberry Pi may not really need any big time monitoring. Especially if the web server is running through Cloudflare, but sometimes it is nice to just have a at a glance view of CPU, Memory, Processes, etc.. The easiest way of monitoring that I have found is via [Glances](https://nicolargo.github.io/glances/). This is how I setup and use it on my Raspberry Pi web server.
 

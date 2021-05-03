@@ -4,8 +4,10 @@ slug: the-easiest-way-to-backup-your-raspberry-pi-sd-card-on-os-x
 date: 2020-10-08T16:27:24.000Z
 date_updated: 2020-10-08T16:27:24.000Z
 tags: code, raspberrypi
-excerpt: The absolute easiest to remember way to back up your Raspberry Pi SD card on a Mac running a modern version of OS X.
 ---
+
+The absolute easiest to remember way to back up your Raspberry Pi SD card on a Mac running a modern version of OS X.
+<!-- excerpt -->
 
 To back up your Raspberry Pi SD  card follow these simple steps.
 
