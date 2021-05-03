@@ -8,7 +8,7 @@ date_updated: 2020-10-06T22:53:15.000Z
 With all the wildfires happening around the US this summer (2020) I finally got motivated enough to put together an air quality monitor home base station to see air quality in person, on the web and on my phone.  If you has a Raspberry Pi plus a few other items you can set this up in an afternoon. I have it tuned to measure PM1.0, PM2.5, PM10, and Carbon Monoxide inside my house. 
 
 As an example, here is what I see in my Adafruit Dashboard
-![](/content/images/2020/09/Screen-Shot-2020-09-14-at-2.54.09-PM.png)My Adafruit dashboard. 
+![](/assets/img/posts/2020/09/Screen-Shot-2020-09-14-at-2.54.09-PM.png)My Adafruit dashboard. 
 I already had most of the the supplies but here is a list of what you will need:
 
 - [Raspberry Pi Zero WH](https://shop.pimoroni.com/products/raspberry-pi-zero-wh-with-pre-soldered-header)
@@ -29,7 +29,7 @@ Once you are SSHed in, you can follow along with the instructions on the Pimoron
 This will install all the various code and samples to get playing with the sensors. The Enviro+ has a bunch of different sensors and LCDs in one making it extremely easy.
 
 My goals for the setup are:
-![](/content/images/2020/09/IMG_5163-1.jpg)
+![](/assets/img/posts/2020/09/IMG_5163-1.jpg)
 ### LCD
 
 The LCD displays PM10, PM2.5 and PM1, temp, and noise level on the screen by default. If the pollution spikes, or the gas spikes the LCD will turn red and display a warning.
@@ -39,7 +39,7 @@ The LCD displays PM10, PM2.5 and PM1, temp, and noise level on the screen by def
 All the LCD data **plus** Carbon Monoxide, CPU Temp, and CPU load so that I just have a view that everything is healthy on the Pi.
 
 If using install with: `pip3 install adafruit-io`
-![](/content/images/2020/09/IMG_5168.jpg)
+![](/assets/img/posts/2020/09/IMG_5168.jpg)
 ### IFTTT
 
 Push alerts to high pollution or gas to my phone so I can be notified immediately if something is at issue.
@@ -381,11 +381,11 @@ Once you create that Python file, its just a matter of setting it up as SystemD 
 Some questions you may have that I hope I can answer
 
 ### Why are the PM2.5 Numbers Different than the AQI I see in apps?
-![](/content/images/2020/09/IMG_37442CC983A2-1.jpeg)Air Quality in Denver as reported by Apple Maps
+![](/assets/img/posts/2020/09/IMG_37442CC983A2-1.jpeg)Air Quality in Denver as reported by Apple Maps
 It comes down to a really weird formula. The goal of which was to conform it to anything over 100 being bad. A really good writeup on the topic can be found here: [https://smartairfilters.com/en/blog/difference-pm2-5-aqi-measurements/](https://smartairfilters.com/en/blog/difference-pm2-5-aqi-measurements/)
 
 But just looking at the chart below gives you a good idea that any ug/m3 over 35 is really bad.
-![](/content/images/2020/09/Screen-Shot-2020-09-16-at-5.08.22-PM.png)
+![](/assets/img/posts/2020/09/Screen-Shot-2020-09-16-at-5.08.22-PM.png)
 Here is a site that does the conversion for you: [PM25 Converter](https://aqi.asia/)
 
 ### My Adafruit IO isn't getting any data

@@ -2,6 +2,9 @@ module.exports = {
   darkMode: 'class',
   purge: ['./src/**/*.md', './_includes/**/*.liquid'],
   theme: {
+    fontFamily: {
+      'bitter': ['Bitter', 'serif']
+    },
     extend: {
       typography: (theme) => ({
         dark: {
@@ -60,6 +63,7 @@ module.exports = {
     }
   },
   plugins: [
-    require('@tailwindcss/typography')
+    require('@tailwindcss/typography'),
+
   ],
 }

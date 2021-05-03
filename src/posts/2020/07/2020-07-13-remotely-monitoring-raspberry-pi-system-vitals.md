@@ -37,4 +37,4 @@ Start the service: `sudo systemctl start glancesweb.service`
 Verify the service is running: `sudo systemctl status glancesweb.service`
 
 And then navigate to the dashboard in your computers web browser and enjoy the complete look at your Pi's vitals.
-![](/content/images/2020/07/Screenshot_2020-07-13-ubuntu---Glances.png)
+![](/assets/img/posts/2020/07/Screenshot_2020-07-13-ubuntu---Glances.png)

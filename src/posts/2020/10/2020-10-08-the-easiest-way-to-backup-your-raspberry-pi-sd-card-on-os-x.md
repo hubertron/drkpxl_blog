@@ -28,14 +28,14 @@ If you haven't given Disk Utility "Full Disk Access" You will need to do these s
 **Step 1:** In your Preferences go to > Security and Privacy > Privacy
 **Step 2: **Hit lock button and enter password
 **Step 3: **Hit the `+` button, search `disk utility` and add, save and close out
-![](/content/images/2020/10/Screen-Shot-2020-10-07-at-5.02.15-PM-1.png)
+![](/assets/img/posts/2020/10/Screen-Shot-2020-10-07-at-5.02.15-PM-1.png)
 Once that is done backing up is easy and can be done with only a few clicks.
 
 **Step 1: **Open Disk Utility, hit **`⌘2`**so all disks are shown
 **Step 2: **Right click on the top level volume of the SD card you want to back up and select `Image From ...`. It's "Centon DS" in my example below 
-![](/content/images/2020/10/Screen-Shot-2020-10-07-at-5.07.28-PM.png)
+![](/assets/img/posts/2020/10/Screen-Shot-2020-10-07-at-5.07.28-PM.png)
 **Step 3: **Name the file what you want but before you save change the format from `read-only` to `compressed` or `read/write` depending on your needs.
-![](/content/images/2020/10/Screen-Shot-2020-10-07-at-6.57.38-PM.png)
+![](/assets/img/posts/2020/10/Screen-Shot-2020-10-07-at-6.57.38-PM.png)
 That's it folks! 3 very quick steps to backing up your Raspberry Pi SD card on a Mac! With the ISO file you can easily use Etcher to deploy the image on other Pi's or replace a worn out SD card.
 
 I hope you find this helpful!
